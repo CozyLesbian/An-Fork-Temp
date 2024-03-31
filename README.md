@@ -37,7 +37,8 @@
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
-Our development focuses on enhancing security, compatibility, and stability.
+We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your **PlayStation®Home** cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+
 
 
 # Quickstart: 
