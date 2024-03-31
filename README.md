@@ -1,6 +1,6 @@
-# <h1 align="center">**Destination Home Online × Welcome Back to PlayStation®Home!**</h1>
+# <h1 align="center">**Welcome Back to PlayStation®Home!**</h1>
 <p align="center">	
-<img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange">
+<img src="https://img.shields.io/badge/Testing%20Period-Open%20Beta-green">
 </a>
 <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%2052.86.120.101-0995d3"
     alt="🌐 Destination Home Public DNS Setting: 52.86.120.101 | Get Started by following our quick-start guide"></a>
@@ -39,11 +39,6 @@
   
 Our development focuses on enhancing security, compatibility, and stability.
 
-### **Current phase: Closed Beta IV**
-
-
-### **1. Open Beta**
-Early Access available to all members of the Discord community.
 
 # Quickstart: 
 
@@ -65,16 +60,12 @@ Early Access available to all members of the Discord community.
 ![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
 
 
-### ℹ️ | Important Information (First Closed Beta Phase)
 
-- Early access aims to gather data for development.
-- Expect broken or missing features/functionality.
-- Bugs are likely, especially on RPCS3.
-- Cache/savedata may be overwritten; ensure you've donated to avoid loss.
+## ⚠️Important to PS3 users: Cache/savedata may be overwritten; ensure you've donated to avoid loss.
 
----
 
----
+
+
 
 ## Enrollment Information ℹ️
 
@@ -82,20 +73,40 @@ Early Access available to all members of the Discord community.
 - Your username will be linked to your Discord ID throughout the Beta.
 - Your PSN account region is typically where you lived at account creation.
 - RPCN account region defaults to North America.
+
+---
+
+### ℹ️ | Important Information (Closed Beta Phase)
+
+- Early access aims to gather data for development.
+- Expect broken or missing features/functionality.
+- Bugs are likely, especially on RPCS3.
 - We reserve the right to revoke access for breaches of the [Code of Conduct](https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct).
 
-## Sharing during Closed Beta 📸
 
-- We encourage sharing photos/videos but clarify the above points to avoid confusion.
 
-## How to Enroll in Closed Beta Phase ✍🏻
+# ✍🏻 How to enroll in our Closed Beta Phase:
+    
+![hub](https://user-images.githubusercontent.com/67494727/187338433-2674242f-1e40-4348-8b78-1f2eb15063bf.png)
+ 
+🤖 | As of `8/12/2022` the Destination Home Team has now deployed our official Beta Enrollment Bot which automatically accepts our Cache Donators/Nitro Boosters RPCN/PSN ID's in preparation for our first Closed Beta. Users will already need to be a verified Cache Donator/Nitro Booster in our [Discord Server](https://discord.com/invite/QguSBT3) to proceed this open enrollment phase. To get started users can type in the following arguments/commands:
+:---: | :---
+ 
+- `/beta enroll [platform] [username] [region] [agreement]`
+    
+  - The `version` parameter has the following 3 following options `PS3` `RPCS3` `BOTH` which will let us know what client you'll be using for our Beta Phase.
+   
+  - The `username` parameter allows you to type your **PSN/RPCN** ID. Be sure to type your ID exactly as it is shown on both network services.
+    
+   - The `region` parameter has **4** selections that you can choose from `North America, Europe, Japan, Other`. This will document what region you PSN account is from and give the development team an idea of localization services compatibility.
 
-![Enrollment](https://user-images.githubusercontent.com/67494727/187338433-2674242f-1e40-4348-8b78-1f2eb15063bf.png)
+   - The `agreement` parameter details that you've fully read the closed-beta information from the `/beta info` command in Discord.
+      
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/187336237-82e46696-bc97-4d66-8f3e-572d4a96711c.png">
+</p>
 
-- Our official Beta Enrollment Bot is live!
-- Join our [Discord Server](https://discord.com/invite/QguSBT3) as a verified Cache Donator/Nitro Booster.
-- Use `/beta enroll [platform] [username] [region] [agreement]` in Discord.
-- Mandatory fields are in `[square brackets]`.
+- Note any **values** in `[square brackets]` are **MANDATORY** and will need to be filled out in order for you to be fully enrolled in our closed-beta testing phase!
 
 ## Destination Home Development Roadmap 🚧
 
@@ -109,21 +120,6 @@ Early Access available to all members of the Discord community.
 
 ---
 
-
-
-# Multilingual Support for this write-up | WIP 🚧:
-  
- ![NPIA00005_screenshot_2022_03_20_18_47_40](https://user-images.githubusercontent.com/67494727/168452608-85bec567-b692-4086-a731-80d04503042c.png)
-  
-- To view this **README** page in other languages here are the following supported languages that have been translated by our extraordinary contributors/moderation team:
-   
-  - [Dutch](https://github.com/DestinationHome/Destination-Home-Online-Dutch)  | Special thanks to **Tymek** for this translation contribution.
-  - [French](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [**Marion**](https://twitter.com/Marion4GF) & [**TreezZ#8905**](https://discordapp.com/users/605516950054895633) for this translation contribution.
-   - [Italian](https://github.com/DestinationHome/Destination-Home-Online-Italy)  | Special thanks to [**Sidereus**](https://twitter.com/__Sidereus__) for this translation contribution. 
-   - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)  | Special thanks to [**piyo**](https://twitter.com/piyopiy80151704) for this translation contribution.
-  
- ℹ️ | For users who want to translate this **README** page in order to support our ever-developing community you can contact me via [Twitter](https://twitter.com/NagatoRevenge) for more information! 
-:---: | :---  
 
 
 
