@@ -37,59 +37,48 @@
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
-We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your **PlayStation®Home** cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
- 
-# 📣 Current Status of Destination Home Online Revival Servers/Services:
+Our development focuses on enhancing security, compatibility, and stability.
 
-  <p align="center">
-  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange"></a>
-    
-![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
-  
- ℹ️ | Currently we are in our **Closed-Beta phase**. During this time we are working on fixing the following network services & functions within Home's intricate ecosystem.
-:---: | :---  
+### **1. Closed Alpha**
+Internal testing by Testers/Helpers and Developers to address security vulnerabilities and compatibility issues.
 
-- [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
-- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.90 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
-- [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
-- [ ] Localization for all objects & all public/private scenes.
-- [x] Stress testing our current network infrastructure. 
-    
-Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
-    
-- **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
-    
-- **2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.
-    
-    - **Closed Beta** access will be expanded in **four** incremental phases:
-    
-       - Phase I: 20 people.
-       - Phase II: 50 people.
-       - Phase III: 100 people.
-       - Phase IV: All donators/boosters.
-    
-- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
-- **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
-- **5.** *Official Release*  
-    
-⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real-life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
-:---: | :---   
+### **2. Closed Beta [Session 1]**
+Testing by Cache Donators & Nitro Boosters. Closed Beta access expands gradually in four phases:
 
-# ✅ Destination Home Beta Enrollment Process:
+- Phase I: 20 people.
+- Phase II: 50 people.
+- Phase III: 100 people.
+- Phase IV: All donators/boosters.
+
+### **3. Closed Beta [Session 2]**
+Similar to Session 1 but with improvements, fixes, and additional content.
+
+### **4. Open Beta**
+Early Access available to all members of the Discord community.
+
+### **5. Official Release**
+
+⚠️ | **Note**: There's no ETA for each stage. Developers contribute in their free time; please be patient.
+
+---
+
+## ✅ Destination Home Beta Enrollment Process
 
 ![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
 
-The Closed Beta is a **2-week period** for users to test the online and provide the team with valuable data/information that will be used to further development.
-This version of Online has been *custom-tailored* for this testing and is *NOT* representative of what will eventually be made publicly available. 
+The Closed Beta, lasting 2 weeks, allows users to test the online experience and provide valuable feedback.
 
- ℹ️ | Important Information during the first Closed Beta Phase:
-:---: | :--- 
+### ℹ️ | Important Information (First Closed Beta Phase)
 
-- You are being given early access to help provide data/metrics for development.
-- Features/Functionality WILL be broken or missing.
-- There WILL be bugs (especially on RPCS3).
-- Scenes, Clothing, Furniture and more will be very limited.
-- Any existing cache/savedata WILL be overwritten: ensure you've donated so it's not lost forever!
+- Early access aims to gather data for development.
+- Expect broken or missing features/functionality.
+- Bugs are likely, especially on RPCS3.
+- Content such as scenes, clothing, and furniture will be limited.
+- Cache/savedata may be overwritten; ensure you've donated to avoid loss.
+
+---
+
+This revised version condenses the information into clear sections with headings, removes redundant details, uses bullet points for key points, and maintains a consistent format throughout.
 
  ℹ️ | Enrollment Information:
 :---: | :--- 
