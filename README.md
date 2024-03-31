@@ -62,7 +62,7 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 
 
 
-## ⚠️Important to PS3 users: Cache/savedata may be overwritten; ensure you've donated to avoid loss.
+## ⚠️Important to PS3 users: Cache/savedata WILL be overwritten; ensure you've donated to avoid loss.
 
 
 
@@ -73,7 +73,6 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 - Only enroll one username.
 - Your username will be linked to your Discord ID throughout the Beta.
 - Your PSN account region is typically where you lived at account creation.
-- RPCN account region defaults to North America.
 
 ---
 
@@ -81,7 +80,6 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 
 - Early access aims to gather data for development.
 - Expect broken or missing features/functionality.
-- Bugs are likely, especially on RPCS3.
 - We reserve the right to revoke access for breaches of the [Code of Conduct](https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct).
 
 
@@ -90,7 +88,7 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
     
 ![hub](https://user-images.githubusercontent.com/67494727/187338433-2674242f-1e40-4348-8b78-1f2eb15063bf.png)
  
-🤖 | As of `8/12/2022` the Destination Home Team has now deployed our official Beta Enrollment Bot which automatically accepts our Cache Donators/Nitro Boosters RPCN/PSN ID's in preparation for our first Closed Beta. Users will already need to be a verified Cache Donator/Nitro Booster in our [Discord Server](https://discord.com/invite/QguSBT3) to proceed this open enrollment phase. To get started users can type in the following arguments/commands:
+🤖 |To access the beta, use our Discord bot. join our discord server [Here](https://discord.com/invite/QguSBT3). To begin, simply use the specified arguments/commands in discord:
 :---: | :---
  
 - `/beta enroll [platform] [username] [region] [agreement]`
