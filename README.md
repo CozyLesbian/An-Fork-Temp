@@ -41,15 +41,9 @@ Our development focuses on enhancing security, compatibility, and stability.
 
 ### **Current phase: Closed Beta IV**
 
-- Phase I: 20 people.
-- Phase II: 50 people.
-- Phase III: 100 people.
-- Phase IV: All donators/boosters.
 
 ### **1. Open Beta**
 Early Access available to all members of the Discord community.
-
-### **2. Official Release**
 
 # Quickstart: 
 
