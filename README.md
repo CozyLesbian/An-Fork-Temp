@@ -57,7 +57,6 @@ Early Access available to all members of the Discord community.
 
 ![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
 
-The Closed Beta, lasting 2 weeks, allows users to test the online experience and provide valuable feedback.
 
 ### ℹ️ | Important Information (First Closed Beta Phase)
 
