@@ -62,7 +62,7 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 
 
 
-## ⚠️Important to PS3 users: Cache/savedata WILL be overwritten; ensure you've donated to avoid loss.
+## ⚠️Important to PS3 users: Cache/savedata WILL be overwritten; ensure you've donated your cache or valuable information will be lost forever!
 
 
 
@@ -71,7 +71,7 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 ## Enrollment Information ℹ️
 
 - Only enroll one username.
-- Your username will be linked to your Discord ID throughout the Beta.
+- Your username will be linked to your [Discord](https://discord.com/invite/QguSBT3) ID throughout the Beta 
 - Your PSN account region is typically where you lived at account creation.
 
 ---
@@ -107,6 +107,16 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 
 - Note any **values** in `[square brackets]` are **MANDATORY** and will need to be filled out in order for you to be fully enrolled in our closed-beta testing phase!
 
+# <h1 align="center">🌐 Destination Home Public DNS Setting: **52.86.120.101**</h1> 
+
+![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
+
+# ✅ That's all you need to join DH! everything below is additional/development information:
+
+#
+
+# 
+
 ## Destination Home Development Roadmap 🚧
 
 ![Roadmap](https://user-images.githubusercontent.com/67494727/179326946-3c696c13-c2c4-45c1-bd2a-ac6e5476854f.png)
@@ -116,15 +126,7 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 
 ⚠️ **Please Note**: Progress depends on our free time and real-life responsibilities.
 
-
 ---
-
-
-
-
-# <h1 align="center">🌐 Destination Home Public DNS Setting: **52.86.120.101**</h1>
-
-![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
 <h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
 
